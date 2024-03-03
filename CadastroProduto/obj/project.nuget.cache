@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj8H/w2EXcfnxrpTBATQ4Ev9n7z8gDV2A8WaA3MpzIyN57Iowftn37hqhQPo/4BI10fDTgfee2SEp7sCqatKZw==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp SQS N 2024\\CadastroProduto\\CadastroProduto\\CadastroProduto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leila\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
